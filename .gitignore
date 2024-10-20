@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
+=======
+data/
+images/
+imagesNormal/
+.env
+mongodb loading.ipynb
+oracle-cards-processing.ipynb
+scryfall testing.ipynb
+oracle-cards-20240324210222.json
+oracle-cards-20240328090146.json
+image.json
+
+>>>>>>> af22512 (init)
 __pycache__/
 *.py[cod]
 *$py.class
@@ -159,4 +173,8 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+<<<<<<< HEAD
 #.idea/
+=======
+#.idea/
+>>>>>>> af22512 (init)
